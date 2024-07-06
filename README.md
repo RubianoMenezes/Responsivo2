@@ -12,4 +12,6 @@
 <p><b>-CSS</b></p>
 <br>
 
-<h2>Responsivo</h2>
+<h2>Responsivo</h2> 
+
+<img src="https://github.com/RubianoMenezes/Responsivo2/blob/main/Proj-Responsivo/img/We-Care-Portifolio.jpeg"/>
